@@ -1,0 +1,18 @@
+{
+    "name": "sampa/task-manager-web",
+    "description": "A simple PHP task manager with a browser UI.",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "TaskApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christoph Rumpel",
+            "email": "christoph@christoph-rumpel.com"
+        }
+    ]
+}

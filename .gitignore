@@ -1,0 +1,4 @@
+/vendor/
+/.idea
+config.bat
+node_modules
